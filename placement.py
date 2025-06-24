@@ -5,7 +5,7 @@ import numpy as np
 import pickle
 
 # Load XGBoost model directly
-with open("C:\summerintenship machine learning\Spider FIles\placement\placement (1).sav", "rb") as file:
+with open("placement (1).sav", "rb") as file:
     model = pickle.load(file)
 
 # Streamlit UI
