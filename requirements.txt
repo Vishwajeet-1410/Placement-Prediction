@@ -1,6 +1,7 @@
 streamlit
-numpy
-pandas
 scikit-learn
-imblearn
-streamlit-option-menu
+pandas
+numpy
+streamlit
+xgboost
+numpy
